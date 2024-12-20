@@ -5,12 +5,13 @@
 4. (Unpack Repack All Map And Pak)
 ```
 termux-setup-storage
+cd UNPACK-MAP
 chmod +x CHEN
 ./CHEN
 ```
 4. Clone this repository
 ```
-git clone https://github.com/FlutterGenerator/MAP-DECODE.git
+git clone https://github.com/FlutterGenerator/UNPACK-MAP.git
 ```
 6. Done.
 
